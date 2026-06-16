@@ -1,5 +1,5 @@
 # Sales-Performance-Dashboard
-# Project Title / Headline
+# 1. Project Title / Headline
 A comprehensive analytical tool designed for tracking, visualizing, and managing sales metrics to drive data-informed decision-making.
 # 2. Short Description / Purpose
 The primary purpose of this dashboard is to provide stakeholders with actionable insights into sales operations. It enables the tracking of key performance indicators (KPIs), monitoring team productivity, and identifying trends in revenue generation.  
