@@ -21,5 +21,5 @@ Resource Management: Includes pre-registered static resources such as icons and 
 Security Integration: Implements security bindings to manage data access and row-level security protocols.  
 # 6. Screenshots / Demos
 Show what the dashboard looks like. 
-Example:![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example:![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/gaurav-aurn-patel/Sales-Performance-Dashboard/blob/main/Screenshot%20of%20Dashboard.png))
 
